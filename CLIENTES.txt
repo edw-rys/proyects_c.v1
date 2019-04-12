@@ -1,0 +1,248 @@
+		***** Dia 1	Mes 1	Anio  2017 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 1	Mes 1	Anio  2017 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 1	Mes 1	Anio  2017 *****
+
+		"ATENDIDOS"
+		** CI: 1	Hora de entrada 1:1	TURNO: 1	Fue el priemro **
+		** CI: 1	Hora de entrada 1:2	TURNO: 2	TIEMPO ESPERA: 1 minutos**
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 28	Mes 8	Anio  2017 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 29	Mes 8	Anio  2017 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 30	Mes 8	Anio  2017 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 0	Mes 9	Anio  2017 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 28	Mes 8	Anio  2017 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 29	Mes 8	Anio  2017 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 30	Mes 8	Anio  2017 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 1	Mes 9	Anio  2017 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 2	Mes 9	Anio  2017 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 28	Mes 8	Anio  2017 *****
+
+		"ATENDIDOS"
+		** CI: 1	Hora de entrada 1:1	TURNO: 1	Fue el priemro **
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 29	Mes 8	Anio  2017 *****
+
+		"ATENDIDOS"
+		** CI: 952615177	Hora de entrada 1:3	TURNO: 1	Fue el priemro **
+		** CI: 96315523	Hora de entrada 1:30	TURNO: 2	TIEMPO ESPERA: 27 minutos**
+		** CI: 1042220155	Hora de entrada 2:3	TURNO: 3	TIEMPO ESPERA: 33 minutos**
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 28	Mes 8	Anio  2017 *****
+
+		"ATENDIDOS"
+		** CI: 5	Hora de entrada 1:55	TURNO: 1	Fue el priemro **
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 29	Mes 8	Anio  2017 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 28	Mes 8	Anio  2017 *****
+
+		"ATENDIDOS"
+		** CI: 95261517	Hora de entrada 1:2	TURNO: 1	Fue el priemro **
+
+		"SIN ATENDER"
+
+		** CI: 2	Hora de entrada 2:3	TURNO: 2 **
+
+		***** Dia 28	Mes 8	Anio  2017 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 28	Mes 8	Anio  2017 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 28	Mes 8	Anio  2017 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 12	Mes 8	Anio  2017 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 12	Mes 0	Anio  0 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 12	Mes 12	Anio  12 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 12	Mes 4	Anio  19 *****
+
+		"ATENDIDOS"
+		" Hoy no hubo clientes atendidos"
+
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
+		***** Dia 12	Mes 4	Anio  19 *****
+
+		"ATENDIDOS"
+		** CI: 7804132	Hora de entrada 14:20	TURNO: 1	Fue el priemro **
+		** CI: 7804180	Hora de entrada 14:20	TURNO: 2	TIEMPO ESPERA: 0 minutos**
+
+		"SIN ATENDER"
+
+		" Hoy no hubo clientes sin atender"
+
